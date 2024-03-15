@@ -21,7 +21,7 @@ Test-driven development (TDD) made app. Start your online business using a moder
 
 **Laracom** is the Laravel FREE E-Commerce Software that come with
 
-- Modern, fast and responsive! 
+- Modern, very fast and responsive! 
 
 - Be ahead of everyone and sell more with a modern framework.
 
